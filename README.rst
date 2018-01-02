@@ -26,7 +26,7 @@ Start new project:
 
     .. code-block:: bash
 
-        bottle-boilerplate startproject YOUR-PROJECT-NAME
+        bottle startproject YOUR-PROJECT-NAME
         cd YOUR-PROJECT-NAME
         pip install -r requirements.txt
 
@@ -42,4 +42,3 @@ Open Bottle documentation:
     .. code-block:: bash
 
         bottle-boilerplate doc
-
