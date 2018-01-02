@@ -41,4 +41,4 @@ Open Bottle documentation:
 
     .. code-block:: bash
 
-        bottle-boilerplate doc
+        bottle doc
